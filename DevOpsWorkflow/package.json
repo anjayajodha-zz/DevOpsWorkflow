@@ -1,0 +1,20 @@
+{
+  "name": "ToDoListMean",
+  "version": "0.1.0",
+  "description": "To Do List Mean Stack Demo, from scotch.io",
+  "main": "server.js",
+  "author": {
+    "name": "Anjay Ajodha",
+    "email": "anjay.ajodha@microsoft.com"
+  },
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": ">=4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.3.6",
+    "morgan": "1.6.1",
+    "angular": "1.4.8",
+    "jquery": "2.2.0",
+    "request": "2.74.0"
+  }
+}
